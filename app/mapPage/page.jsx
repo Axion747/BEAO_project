@@ -20,6 +20,8 @@ const GoogleMap = () => {
       const locations = [
         { name: 'Jackson Heights Greenmarket', lat: 40.753306, lng: -73.889698, needs: 'Water and food' },
         { name: 'Sunnyside Community Services', lat: 40.744556, lng: -73.926048, needs: 'Medical supplies' },
+		{ name: "Van Scilen Women's Shelter (Samartan Village)", lat: 40.680714, lng: -73.892018, needs: 'Medical supplies' },
+		{ name: 'Project Find', lat: 40.755835, lng: -73.984410, needs: 'Men Clothing' },
       ];
 
       let activeInfoWindow = null;
