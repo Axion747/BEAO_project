@@ -65,10 +65,10 @@ import {
     },
   ]
   const stats = [
-    { id: 1, name: 'Developers on the platform', value: '8,000+' },
-    { id: 2, name: 'Daily requests', value: '900m+' },
+    { id: 1, name: 'Developers on the platform', value: '1' },
+    { id: 2, name: 'Daily requests', value: '9' },
     { id: 3, name: 'Uptime guarantee', value: '99.9%' },
-    { id: 4, name: 'Projects deployed', value: '12m' },
+    { id: 4, name: 'Projects deployed', value: '1' },
   ]
   const footerNavigation = {
     solutions: [
