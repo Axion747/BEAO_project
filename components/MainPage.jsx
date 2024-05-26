@@ -224,7 +224,7 @@ import {
                   Bringing Equal Opportunities to All
                 </h1>
                 <p className="mt-6 text-lg leading-8 text-gray-300">
-                  There is no better time to become an active community member. We're here to help you get started.
+                  There is no better time to become an active community member. We are here to help you get started.
                 </p>
                 <div className="mt-10 flex items-center gap-x-6">
                   <a
@@ -304,7 +304,7 @@ import {
                 Charity should be a three-way street
               </p>
               <p className="mt-6 text-lg leading-8 text-gray-300">
-                We get it. It is a hassle to figure out where to donate, where to collaborate with your community, and where to receive help. We've got you covered.
+                We get it. It is a hassle to figure out where to donate, where to collaborate with your community, and where to receive help. We have got you covered.
               </p>
             </div>
             <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -336,7 +336,7 @@ import {
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
               <div className="mx-auto max-w-2xl sm:text-center">
                 <h2 className="text-base font-semibold leading-7 text-indigo-400">Everything you need</h2>
-                <p className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Can't find the right place? No problem.</p>
+                <p className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Cannot find the right place? No problem.</p>
                 <p className="mt-6 text-lg leading-8 text-gray-300">
                   We have all the locations in your community covered. Simply look at the options and choose which one is most suitable for you. Get connecting!
                 </p>
