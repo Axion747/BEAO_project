@@ -34,33 +34,33 @@ import {
   ]
   const secondaryFeatures = [
     {
-      name: 'Push to deploy.',
-      description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
+      name: 'Easy to use',
+      description: 'Even your granny can use it.',
       icon: CloudArrowUpIcon,
     },
     {
-      name: 'SSL certificates.',
-      description: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
+      name: 'Multilingual.',
+      description: 'For everyone.',
       icon: LockClosedIcon,
     },
     {
-      name: 'Simple queues.',
-      description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus.',
+      name: 'Online 24/7.',
+      description: 'Always here for you',
       icon: ArrowPathIcon,
     },
     {
       name: 'Advanced security.',
-      description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
+      description: 'No data leaks.',
       icon: FingerPrintIcon,
     },
     {
-      name: 'Powerful API.',
-      description: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
+      name: 'Powerful tools.',
+      description: 'Helps you more!',
       icon: Cog6ToothIcon,
     },
     {
       name: 'Database backups.',
-      description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. ',
+      description: 'Prevents data loss and ensures data is always available.',
       icon: ServerIcon,
     },
   ]
