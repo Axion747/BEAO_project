@@ -1,5 +1,3 @@
-'use client'
-
 import React, { useEffect } from 'react';
 
 const GoogleMap = () => {
@@ -51,7 +49,7 @@ const GoogleMap = () => {
     loadScript(`https://maps.googleapis.com/maps/api/js?key=AIzaSyDeeCtM_Es1sEtpe4u4o9iBd93xDJpF_ek&callback=initMap`);
   }, []);
 
-  return <div id="map" style={{ height: '1200px', width: '100%' }}></div>;
+  return <div id="map" style={{ height: '500px', width: '100%' }}></div>;
 };
 
 export default GoogleMap;
