@@ -63,20 +63,15 @@ const stats = [
                 </h1>
                 <div className="max-w-xl">
                   <p className="mt-6">
-                    Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet
-                    vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque
-                    erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris
-                    semper sed amet vitae sed turpis id.
+                    This idea initially started as a project for a headache. One of our founders needed to donate some books. It should have been an easy task, right?
                   </p>
                   <p className="mt-8">
-                    Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie
-                    auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices
-                    hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
+                    He found himself scouring the web for hours, making countless phone calls, many of them going unanswered. Three hours later, with about 50 or so tabs opened, he gave up.
+                    Something like this should be so easy for people to contribute to the community. And that is how we started.
                   </p>
                   <p className="mt-8">
-                    Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie
-                    auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices
-                    hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
+                    We want to make this project an universal hub for all local philanthropist efforts, including charity advocacy, volunteer opportunities, and donations 
+                    services. We want to make it easy for people to contribute to their community.
                   </p>
                 </div>
               </div>
