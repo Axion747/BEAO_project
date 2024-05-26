@@ -53,7 +53,7 @@ const GoogleMap = () => {
   }, []);
 
   return (
-	<div>
+	<div className = "bg-gray-900">
 		<MainHeader />
 		<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', padding: '20px' }}>
 	<div id="map" style={{ height: '80vh', width: '80%', border: '2px solid black' }}></div>
