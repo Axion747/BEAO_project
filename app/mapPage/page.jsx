@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useEffect } from 'react';
+import MainHeader from "@/components/builtComponents/Header";
 
 const GoogleMap = () => {
   useEffect(() => {
@@ -51,7 +52,14 @@ const GoogleMap = () => {
     loadScript(`https://maps.googleapis.com/maps/api/js?key=AIzaSyDeeCtM_Es1sEtpe4u4o9iBd93xDJpF_ek&callback=initMap`);
   }, []);
 
-  return <div id="map" style={{ height: '1200px', width: '100%' }}></div>;
+  return (
+	<div>
+		<MainHeader />
+		<div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', padding: '20px' }}>
+	<div id="map" style={{ height: '80vh', width: '80%', border: '2px solid black' }}></div>
+		</div>
+	</div>
+  );
 };
 
 export default GoogleMap;
